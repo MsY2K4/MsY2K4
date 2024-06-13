@@ -104,7 +104,3 @@
 </div>
 
 ###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/MsY2K4/MsY2K4/output/snake.svg" alt="Snake animation" />
