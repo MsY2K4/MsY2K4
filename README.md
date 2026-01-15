@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Younes Moustaquim and I'm a Software Engineer from Morocco</h2>
+<h2 align="left">Hi 👋!</h2>
 
 ###
 ###
